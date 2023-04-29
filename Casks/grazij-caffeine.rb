@@ -1,4 +1,4 @@
-cask "caffeine" do
+cask "grazij-caffeine" do
   version "1.1.3-grazij.1"
   sha256 "eb9b6b5305732485fcd8a08b316668170e45eefb28438b17bc83ba15642c28be"
 
